@@ -1,0 +1,326 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 68,
+      "max": [
+        0.09872209280729294,
+        0.10380265861749649,
+        0.05929599702358246
+      ],
+      "min": [
+        -0.0976337343454361,
+        -0.07147566229104996,
+        -0.06484769284725189
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 68,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 68,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5125,
+      "count": 102,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 68,
+      "max": [
+        0.09872210025787354,
+        0.00163325946778059,
+        0.059296004474163055
+      ],
+      "min": [
+        -0.0976337417960167,
+        -0.0011246211361140013,
+        -0.06484770029783249
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 68,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 68,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5125,
+      "count": 102,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "generator": "Prisma3D Pro",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 816,
+      "target": 34962
+    },
+    {
+      "buffer": 1,
+      "byteLength": 816,
+      "target": 34962
+    },
+    {
+      "buffer": 2,
+      "byteLength": 544,
+      "target": 34962
+    },
+    {
+      "buffer": 3,
+      "byteLength": 408,
+      "target": 34963
+    },
+    {
+      "buffer": 4,
+      "byteLength": 816,
+      "target": 34962
+    },
+    {
+      "buffer": 5,
+      "byteLength": 816,
+      "target": 34962
+    },
+    {
+      "buffer": 6,
+      "byteLength": 544,
+      "target": 34962
+    },
+    {
+      "buffer": 7,
+      "byteLength": 408,
+      "target": 34963
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 816,
+      "uri": "data:application/octet-stream;base64,3hZpPX2W1D0hqOU8YIlwPX2W1D2X7RW92sVevXuW1D3BaxC99MhbvXuW1D2zIv48VMOpvc1hkr1UQwm92sVevXuW1D3BaxC9yJkgvchhkj3ezoS9x5kgvdFhkr3ezoS92sVevXuW1D3BaxC9YIlwPX2W1D2X7RW9x5kgPcdhkj3ezoS9yJkgvchhkj3ezoS9YIlwPX2W1D2X7RW93tSyPc1hkr0VTSy9yJkgPdNhkr3ezoS9x5kgPcdhkj3ezoS9x5kgvdFhkr3ezoS9yJkgvchhkj3ezoS9x5kgPcdhkj3ezoS9yJkgPdNhkr3ezoS9SISnvc1hkr3LOQY99MhbvXuW1D2zIv48MvTHvcZhkj11nSs8MvTHvdNhkr1inSs89MhbvXuW1D2zIv482sVevXuW1D3BaxC9MvTHvcVhkj1inSu8MvTHvcZhkj11nSs82sVevXuW1D3BaxC9VMOpvc1hkr1UQwm9MvTHvdVhkr11nSu8MvTHvcVhkj1inSu8MvTHvdNhkr1inSs8MvTHvcZhkj11nSs8MvTHvcVhkj1inSu8MvTHvdVhkr11nSu846usPc1hkr1qhBc93hZpPX2W1D0hqOU8lXw+Pc1hkj1c4HI9lHw+Pcxhkr1c4HI93hZpPX2W1D0hqOU89MhbvXuW1D2zIv48lHw+vcxhkj1c4HI9lXw+Pc1hkj1c4HI99MhbvXuW1D2zIv48SISnvc1hkr3LOQY9lXw+vc1hkr1c4HI9lHw+vcxhkj1c4HI9lHw+Pcxhkr1c4HI9lXw+Pc1hkj1c4HI9lHw+vcxhkj1c4HI9lXw+vc1hkr1c4HI93tSyPc1hkr0VTSy9YIlwPX2W1D2X7RW9zy7KPcdhkj2SV3S8zy7KPdJhkr2MV3S8YIlwPX2W1D2X7RW93hZpPX2W1D0hqOU8zy7KPcdhkj2MV3Q8zy7KPcdhkj2SV3S83hZpPX2W1D0hqOU846usPc1hkr1qhBc9zy7KPdJhkr2SV3Q8zy7KPcdhkj2MV3Q8zy7KPdJhkr2MV3S8zy7KPcdhkj2SV3S8zy7KPcdhkj2MV3Q8zy7KPdJhkr2SV3Q8"
+    },
+    {
+      "byteLength": 816,
+      "uri": "data:application/octet-stream;base64,BxYPNP//f7+8TpgwzH8NNAAAgL/Fu34xBxYPNP//f7+8TpgwD6sQNP//f7+3y8uwB70zP+Kgcb0nqjU/6aVRP2SpAr5/PA8/B70zP+Kgcb0nqjU/NjgVPzJ7gjJlA1A/qWerO6+4Kr/qwT4/NCISPG81Kb93F0A/qWerO6+4Kr/qwT4/G8KJsyPYLL8/1zw/faYUvyNih711u08/5hPavpy3x72URGY/faYUvyNih711u08/JZ1Sv3YquLKkhhE/AAAAgAAAAAAAAIA/AAAAgAAAAAAAAIA/AAAAgAAAAAAAAIA/AAAAgAAAAAAAAIA/lQoaPwLWa72v70u/Pr3xPpsjrb0AoWC/lQoaPwLWa72v70u/FrNQP7zymTMZQhS/B2gYP5WvTb8fIqO7EqcYPxGATb8jC9e7B2gYP5WvTb8fIqO76aAXP41DTr/X15k0gDUnP0ylXr0kWUE/XMlVPzWcBb4Mzgg/gDUnP0ylXr0kWUE/v5X+PkCi5rMIHF4/AACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAA//9/PwAAAAAAAAAAu0s3v2BApr1fgDG/mwNgvz0BJL4V3Om+u0s3v2BApr1fgDG/axQCv2R9YzIafVy/hPYwvFxTLb/6YDy/UB+mvGMmKb87FkC/hPYwvFxTLb/6YDy/2SpvMzD2Mb+1Bji/H4xEP5svkr2+ASO/bvwYP1iz1L2gh0u/H4xEP5svkr2+ASO/Uy54P/YD2bIDJnu+AAAAgAAAAAAAAIC/AAAAgAAAAAAAAIC/AAAAgAAAAAAAAIC/AAAAgAAAAAAAAIC/SSc2v3x/m70m0zI/ZCULv5Ks6r3c3lQ/SSc2v3x/m70m0zI/jQhsv4ABgjIOPMY+8oQev0v+SL+gREO80msdvzzUSb/Pso288oQev0v+SL+gREO8VOsgv7kZR78AAAAAHPUOvzYikr0dlFO/R7lTv9upIL78Lwq/HPUOvzYikr0dlFO/K0mZvk8wILP9QXS/AACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAA"
+    },
+    {
+      "byteLength": 544,
+      "uri": "data:application/octet-stream;base64,AAAAAAAAAIAAAAAAAACAvwAAgD8AAIC/AACAPwAAAIAAAAAAAAAAgAAAAAAAAIC/AAAAAAAAgL8AAAAAAAAAgAAAAAAAAIC/AACAPwAAgL8AAIA/AACAvwAAAAAAAIC/AACAPwAAgL8AAIA/AAAAgAAAgD8AAACAAACAPwAAgL8AAAAAAAAAgAAAAAAAAIC/AACAPwAAgL8AAIA/AAAAgAAAAAAAAACAAAAAAAAAgL8AAAAAAACAvwAAAAAAAACAAAAAAAAAgL8AAIA/AACAvwAAgD8AAIC/AAAAAAAAgL8AAIA/AACAvwAAgD8AAACAAACAPwAAAIAAAIA/AACAvwAAAAAAAACAAAAAAAAAgL8AAIA/AACAvwAAgD8AAACAAAAAAAAAAIAAAAAAAACAvwAAAAAAAIC/AAAAAAAAAIAAAAAAAACAvwAAgD8AAIC/AACAPwAAgL8AAAAAAACAvwAAgD8AAIC/AACAPwAAAIAAAIA/AAAAgAAAgD8AAIC/AAAAAAAAAIAAAAAAAACAvwAAgD8AAIC/AACAPwAAAIAAAAAAAAAAgAAAAAAAAIC/AAAAAAAAgL8AAAAAAAAAgAAAAAAAAIC/AACAPwAAgL8AAIA/AACAvwAAAAAAAIC/AACAPwAAgL8AAIA/AAAAgAAAgD8AAACAAACAPwAAgL8AAAAAAAAAgAAAAAAAAIC/AACAPwAAgL8AAIA/AAAAgA=="
+    },
+    {
+      "byteLength": 408,
+      "uri": "data:application/octet-stream;base64,AAAAAAIAAAABAAAAAwAAAAIAAAAAAAAABAAAAAYAAAAFAAAABwAAAAYAAAAEAAAACAAAAAoAAAAJAAAACwAAAAoAAAAIAAAADAAAAA4AAAANAAAADwAAAA4AAAAMAAAAEAAAABIAAAARAAAAEwAAABIAAAAQAAAAFAAAABYAAAAVAAAAFwAAABYAAAAUAAAAGAAAABoAAAAZAAAAGwAAABoAAAAYAAAAHAAAAB4AAAAdAAAAHwAAAB4AAAAcAAAAIAAAACIAAAAhAAAAIwAAACIAAAAgAAAAJAAAACYAAAAlAAAAJwAAACYAAAAkAAAAKAAAACoAAAApAAAAKwAAACoAAAAoAAAALAAAAC4AAAAtAAAALwAAAC4AAAAsAAAAMAAAADIAAAAxAAAAMwAAADIAAAAwAAAANAAAADYAAAA1AAAANwAAADYAAAA0AAAAOAAAADoAAAA5AAAAOwAAADoAAAA4AAAAPAAAAD4AAAA9AAAAPwAAAD4AAAA8AAAAQAAAAEIAAABBAAAAQwAAAEIAAABAAAAA"
+    },
+    {
+      "byteLength": 816,
+      "uri": "data:application/octet-stream;base64,4BZpPecS1jocqOU8YolwPRgT1jqZ7RW92MVevcIS1jrDaxC98shbvZES1jquIv48VcOpvdRnk7pSQwm92MVevcIS1jrDaxC9xpkgvb5nkzrfzoS9yZkgvaFnk7rdzoS92MVevcIS1jrDaxC9YolwPRgT1jqZ7RW9yZkgPfdnkzrfzoS9xpkgvb5nkzrfzoS9YolwPRgT1jqZ7RW93dSyPVBnk7oTTSy9xpkgPWlnk7rdzoS9yZkgPfdnkzrfzoS9yZkgvaFnk7rdzoS9xpkgvb5nkzrfzoS9yZkgPfdnkzrfzoS9xpkgPWlnk7rdzoS9SYSnvQRok7rNOQY98shbvZES1jquIv48MfTHvVlnkzpunSs8M/THvQZok7ppnSs88shbvZES1jquIv482MVevcIS1jrDaxC9MfTHvWhnkzppnSu8MfTHvVlnkzpunSs82MVevcIS1jrDaxC9VcOpvdRnk7pSQwm9M/THvfhnk7punSu8MfTHvWhnkzppnSu8M/THvQZok7ppnSs8MfTHvVlnkzpunSs8MfTHvWhnkzppnSu8M/THvfhnk7punSu84qusPY1nk7pshBc94BZpPecS1jocqOU8l3w+PaZnkzpa4HI9knw+Pblnk7pe4HI94BZpPecS1jocqOU88shbvZES1jquIv48knw+vWFnkzpa4HI9l3w+PaZnkzpa4HI98shbvZES1jquIv48SYSnvQRok7rNOQY9l3w+vf5nk7pe4HI9knw+vWFnkzpa4HI9knw+Pblnk7pe4HI9l3w+PaZnkzpa4HI9knw+vWFnkzpa4HI9l3w+vf5nk7pe4HI93dSyPVBnk7oTTSy9YolwPRgT1jqZ7RW90C7KPf5nkzqZV3S8zi7KPWFnk7qFV3S8YolwPRgT1jqZ7RW94BZpPecS1jocqOU80C7KPehnkzqFV3Q80C7KPf5nkzqZV3S84BZpPecS1jocqOU84qusPY1nk7pshBc9zi7KPXdnk7qZV3Q80C7KPehnkzqFV3Q8zi7KPWFnk7qFV3S80C7KPf5nkzqZV3S80C7KPehnkzqFV3Q8zi7KPXdnk7qZV3Q8"
+    },
+    {
+      "byteLength": 816,
+      "uri": "data:application/octet-stream;base64,e6W8M///f7/Lkbmz1eK7MwAAgL+HO7ize6W8M///f7/LkbmzjGe9M///f78L57qzz005PqVhd78oSjs+hEjNPU0bfr/8QIw9z005PqVhd78oSjs+NjgVP0DlJjZkA1A//HoBOd/1f7+v/488LrBeOY31f78wTZI8/HoBOd/1f7+v/4883rC1M1D2f79SzYw8HLIJvmgSeb93bEA+w/aKvRLDfL9ZuxI+HLIJvmgSeb93bEA+KJ1Sv17EAzejhhE//gYbq5BM3jYAAIA//wYbq5FM3jYAAIA//gYbq5BM3jYAAIA//gYbq5BM3jYAAIA/gnEiPlD5dr9KD1e+g/KwPVi1e79BbCS+gnEiPlD5dr9KD1e+FrNQP3T+jLYZQhS/YQA/PIz7f792oMy4mXs/PIX7f79W9ga5YQA/PIz7f792oMy4kn49PJ37f79R/rKzN/05PvLudb9jEFc+bMjMPZUwfr8DC4M9N/05PvLudb9jEFc+wJX+PprOqrYIHF4/AACAP5BM3rbjExGrAACAP5BM3rbjExGrAACAP5BM3rbjExGrAACAP49M3rbiExGrdIcLvklae79UHge+HjyvvQfOfr/i7za9dIcLvklae79UHge+axQCv6sSybUafVy/CYmDuWv2f7+yEYy81xb9uYf1f7+cWZK8CYmDuWv2f7+yEYy88m+5M1P3f78gRYW8iUEpPioHer9rXwy+sFi3PXckfb+y6/O9iUEpPioHer9rXwy+US54P0H0IbcKJnu+vzYiK5BM3rYAAIC/f2EjK45M3rYAAIC/vzYiK5BM3rYAAIC//gshK5BM3rYAAIC/vd0TvjG0er//KRE++nKXvammfb8+sec9vd0TvjG0er//KRE+jghsvw1GHDcNPMY+v0tLvPb6f79GhHq5Rw1JvA/7f7+LBLW5v0tLvPb6f79GhHq5vlVQvLP6f7/hYbizc0z2vRgGer81Qza++gepvezAfr95pVy9c0z2vRgGer81Qza+KkmZvjOTxrb+QXS/AACAv5BM3jaVZicrAACAv49M3jbSrS4rAACAv5BM3jaVZicrAACAv5BM3jZXHyAr"
+    },
+    {
+      "byteLength": 544,
+      "uri": "data:application/octet-stream;base64,AAAAAAAAAIAAAAAAAACAvwAAgD8AAIC/AACAPwAAAIAAAAAAAAAAgAAAAAAAAIC/AAAAAAAAgL8AAAAAAAAAgAAAAAAAAIC/AACAPwAAgL8AAIA/AACAvwAAAAAAAIC/AACAPwAAgL8AAIA/AAAAgAAAgD8AAACAAACAPwAAgL8AAAAAAAAAgAAAAAAAAIC/AACAPwAAgL8AAIA/AAAAgAAAAAAAAACAAAAAAAAAgL8AAAAAAACAvwAAAAAAAACAAAAAAAAAgL8AAIA/AACAvwAAgD8AAIC/AAAAAAAAgL8AAIA/AACAvwAAgD8AAACAAACAPwAAAIAAAIA/AACAvwAAAAAAAACAAAAAAAAAgL8AAIA/AACAvwAAgD8AAACAAAAAAAAAAIAAAAAAAACAvwAAAAAAAIC/AAAAAAAAAIAAAAAAAACAvwAAgD8AAIC/AACAPwAAgL8AAAAAAACAvwAAgD8AAIC/AACAPwAAAIAAAIA/AAAAgAAAgD8AAIC/AAAAAAAAAIAAAAAAAACAvwAAgD8AAIC/AACAPwAAAIAAAAAAAAAAgAAAAAAAAIC/AAAAAAAAgL8AAAAAAAAAgAAAAAAAAIC/AACAPwAAgL8AAIA/AACAvwAAAAAAAIC/AACAPwAAgL8AAIA/AAAAgAAAgD8AAACAAACAPwAAgL8AAAAAAAAAgAAAAAAAAIC/AACAPwAAgL8AAIA/AAAAgA=="
+    },
+    {
+      "byteLength": 408,
+      "uri": "data:application/octet-stream;base64,AAAAAAIAAAABAAAAAwAAAAIAAAAAAAAABAAAAAYAAAAFAAAABwAAAAYAAAAEAAAACAAAAAoAAAAJAAAACwAAAAoAAAAIAAAADAAAAA4AAAANAAAADwAAAA4AAAAMAAAAEAAAABIAAAARAAAAEwAAABIAAAAQAAAAFAAAABYAAAAVAAAAFwAAABYAAAAUAAAAGAAAABoAAAAZAAAAGwAAABoAAAAYAAAAHAAAAB4AAAAdAAAAHwAAAB4AAAAcAAAAIAAAACIAAAAhAAAAIwAAACIAAAAgAAAAJAAAACYAAAAlAAAAJwAAACYAAAAkAAAAKAAAACoAAAApAAAAKwAAACoAAAAoAAAALAAAAC4AAAAtAAAALwAAAC4AAAAsAAAAMAAAADIAAAAxAAAAMwAAADIAAAAwAAAANAAAADYAAAA1AAAANwAAADYAAAA0AAAAOAAAADoAAAA5AAAAOwAAADoAAAA4AAAAPAAAAD4AAAA9AAAAPwAAAD4AAAA8AAAAQAAAAEIAAABBAAAAQwAAAEIAAABAAAAA"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.7529411911964417,
+          0.2235294133424759,
+          0.1725490242242813,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.0
+      }
+    },
+    {
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.2893484830856323,
+          0.6236515045166016,
+          0.6983782052993774,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        3,
+        1
+      ],
+      "name": "awita",
+      "rotation": [
+        0.0,
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "translation": [
+        -0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "cajita",
+      "rotation": [
+        0.0,
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "translation": [
+        -0.0,
+        -6.487383075182152e-08,
+        0.026500388979911804
+      ]
+    },
+    {
+      "mesh": 0,
+      "name": "cajits",
+      "rotation": [
+        1.0,
+        4.371138473402425e-08,
+        4.371138473402425e-08,
+        4.371139183945161e-08
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "translation": [
+        1.3939506215976394e-09,
+        -0.0014588749036192894,
+        -0.01594482734799385
+      ]
+    },
+    {
+      "children": [
+        4
+      ],
+      "name": "cajita",
+      "rotation": [
+        0.0,
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "translation": [
+        -0.0,
+        0.263292133808136,
+        0.026500388979911804
+      ]
+    },
+    {
+      "mesh": 1,
+      "name": "cajits",
+      "rotation": [
+        1.0,
+        4.371138473402425e-08,
+        4.371138473402425e-08,
+        4.371139183945161e-08
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "translation": [
+        1.9217727853515498e-08,
+        -0.20390340685844421,
+        -0.015944838523864746
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
